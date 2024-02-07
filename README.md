@@ -23,7 +23,7 @@ To run the TD(0) learning experiment for the random walk, follow these steps:
 1. Clone or download the repository to your local machine.
 2. Make sure you have Python installed.
 3. Install the required dependencies using `pip install -r requirements.txt`.
-4. Run the `Question2.py` script using Python to execute the experiment.
+4. Run the `RandomWalk.py` script using Python to execute the experiment.
 
 ## How to Use
 
@@ -35,7 +35,7 @@ To run the TD(0) learning experiment for the random walk, follow these steps:
 
 The project directory contains the following files:
 
-- `Question2.py`: Implementation of the TD(0) learning experiment for the random walk.
+- `RandomWalk.py`: Implementation of the TD(0) learning experiment for the random walk.
 - `README.md`: Markdown file containing detailed information about the project.
 - `requirements.txt`: Text file listing the Python dependencies required to run the experiment.
 
