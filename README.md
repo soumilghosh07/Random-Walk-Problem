@@ -37,7 +37,6 @@ The project directory contains the following files:
 
 - `RandomWalk.py`: Implementation of the TD(0) learning experiment for the random walk.
 - `README.md`: Markdown file containing detailed information about the project.
-- `requirements.txt`: Text file listing the Python dependencies required to run the experiment.
 
 ## Experiment Details
 
